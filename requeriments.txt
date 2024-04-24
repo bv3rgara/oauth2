@@ -1,0 +1,5 @@
+django==4.0
+djangorestframework==3.13.1
+ipython
+django-oauth-toolkit
+djangorestframework-simplejwt==4.6.0
